@@ -127,11 +127,11 @@ if __name__ == '__main__':
 
 ### Server:
 
-![image](https://github.com/user-attachments/assets/a9f71eed-9c89-4649-8e06-5f5cd0bf4291)
+![image](https://github.com/user-attachments/assets/9e4ab9d7-ac30-4ac8-b362-6fb35527464c)
 
 ### Client:
 
-![image](https://github.com/user-attachments/assets/20e75517-0f5d-4c38-a2e2-63fddbc95444)
+![image](https://github.com/user-attachments/assets/7fbbf8ee-3e26-447a-a8d4-579901ef28d3)
 
 ## Result:
 
